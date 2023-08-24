@@ -23,8 +23,8 @@
 
 // DB
 	define('DB_DRIVER', 'mysqli');
-	define('DB_HOSTNAME', 'localhost');
-	define('DB_USERNAME', 'root');
-	define('DB_PASSWORD', '');
-	define('DB_DATABASE', 'fund');
+	define('DB_HOSTNAME', 'https://moirabeautyarabia.com/');
+	define('DB_USERNAME', 'biohaira_wp494');
+	define('DB_PASSWORD', '5Sr.0r)53p');
+	define('DB_DATABASE', 'biohaira_tfund');
 	define('DB_PREFIX', '');
